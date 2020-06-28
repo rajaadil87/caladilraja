@@ -1,0 +1,13 @@
+.resultplace{
+    width:400px;
+    height: 50px;
+}
+.col{
+    background-color: rgb(77, 16, 190);
+    max-width: fit-content;
+}
+#wi{
+    width: 70px;
+}
+
+
